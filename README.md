@@ -1,2 +1,3 @@
-# GrandBlue
-An anime streaming service app. Just like netflix, but for anime.
+# GoFinances
+
+App for handling personal finances.
